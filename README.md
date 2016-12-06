@@ -1,5 +1,5 @@
-# MeetUp-1
-Meetup #1  sobre Retrofit && Android Beacons && Android Design Support Library && MVP en Android && Rhino
+# MeetUp-2
+Meetup #2  sobre Retrofit && Android Beacons && Android Design Support Library && MVP en Android && Rhino
 
 
 ### Charlas :
